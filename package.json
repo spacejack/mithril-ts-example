@@ -12,13 +12,13 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@types/mithril": "github:spacejack/mithril.d.ts",
+    "@types/mithril": "github:spacejack/mithril.d.ts#1.0.0-rc.6",
     "browserify": "^13.1.1",
     "http-server": "^0.9.0",
-    "mithril": "^1.0.0-rc.5",
+    "mithril": "^1.0.0-rc.6",
     "npm-run-all": "^3.1.2",
     "tsify": "^2.0.3",
-    "tslint": "^4.0.2",
+    "tslint": "^4.1.1",
     "typescript": "^2.1.4",
     "uglify-js": "^2.7.5",
     "watchify": "^3.7.0"
