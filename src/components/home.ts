@@ -9,4 +9,4 @@ export default {
 			m('p', "This is the home page.")
 		])
 	}
-} as Mithril.Component<{},{}>
+} as m.Component<{},{}>

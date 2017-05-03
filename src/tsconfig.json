@@ -13,8 +13,7 @@
     "sourceMap": true,
     "strictNullChecks": true,
     "noImplicitThis": true,
-    "files": ["main.ts"],
-    "include": ["types/**/*.d.ts"]
+    "files": ["main.ts"]
   },
   "atom": {
     "rewriteTsconfig": false

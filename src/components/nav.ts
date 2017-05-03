@@ -8,4 +8,4 @@ export default {
 			m('a', {href: '/about', oncreate: m.route.link}, "About")
 		)
 	}
-} as Mithril.Component<{},{}>
+} as m.Component<{},{}>

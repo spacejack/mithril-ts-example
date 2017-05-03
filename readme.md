@@ -1,6 +1,6 @@
-# Mithril 1.0 / Typescript Example Project
+# Mithril / Typescript Example Project
 
-This is an example project using the Mithril 1.0 (RC5) and TypeScript.
+This is an example project using [Mithril](https://mithril.js.org/) and TypeScript.
 
 ## Installation:
 
