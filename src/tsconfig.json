@@ -3,18 +3,9 @@
     "target": "es5",
     "module": "commonjs",
     "lib": ["dom", "es2015"],
-    "noImplicitAny": true,
-    "noImplicitReturns": true,
-    "suppressImplicitAnyIndexErrors": true,
-    "preserveConstEnums": true,
-    "removeComments": false,
-    "noLib": false,
-    "declaration": false,
-    "sourceMap": true,
-    "strictNullChecks": true,
-    "noImplicitThis": true,
-    "files": ["main.ts"]
+    "strict": true
   },
+  "files": ["./main.ts"],
   "atom": {
     "rewriteTsconfig": false
   }

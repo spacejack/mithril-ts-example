@@ -1,6 +1,8 @@
 # Mithril / Typescript Example Project
 
-This is an example project using [Mithril](https://mithril.js.org/) and TypeScript.
+This is a very barebones example project using [Mithril](https://mithril.js.org/) and TypeScript.
+
+This project uses [browserify](https://github.com/browserify/browserify) and [tsify](https://github.com/TypeStrong/tsify) to compile the app source files and 3rd party npm modules into a single app bundle. It uses the http-server module to serve the `public` directory on a local server.
 
 ## Installation:
 
@@ -21,3 +23,7 @@ While this npm script is running, edits made to src/*.ts files will be recompile
     npm run build
 
 Will output a minified `app.js` file in `public/js`
+
+---
+
+For a more complete project setup with PostCSS compilation and hot reloading, take a look at [this repo](https://github.com/spacejack/mithril-browserify-ts-budo).

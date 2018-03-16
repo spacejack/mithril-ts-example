@@ -12,17 +12,18 @@
   },
   "license": "MIT",
   "dependencies": {
-    "mithril": "^1.1.1"
+    "mithril": "^1.1.6"
   },
   "devDependencies": {
-    "@types/mithril": "^1.1.2",
-    "browserify": "^14.3.0",
-    "http-server": "^0.10.0",
-    "npm-run-all": "^4.0.2",
-    "tsify": "^3.0.1",
-    "tslint": "^5.1.0",
-    "typescript": "^2.3.2",
-    "uglify-js": "^2.8.22",
-    "watchify": "^3.9.0"
+    "@types/mithril": "^1.1.12",
+    "browserify": "^16.1.1",
+    "http-server": "^0.11.1",
+    "npm-run-all": "^4.1.2",
+    "tsify": "^3.0.4",
+    "tslint": "^5.9.1",
+    "tslint-microsoft-contrib": "^5.0.3",
+    "typescript": "^2.7.2",
+    "uglify-js": "^3.3.15",
+    "watchify": "^3.11.0"
   }
 }
