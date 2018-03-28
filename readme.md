@@ -8,6 +8,10 @@ This project uses [browserify](https://github.com/browserify/browserify) and [ts
 
     npm install
 
+### Recommended VSCode Extensions
+
+* tslint
+
 ## Serve this project locally and recompile .ts sources on save:
 
     npm start

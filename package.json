@@ -22,8 +22,8 @@
     "tsify": "^3.0.4",
     "tslint": "^5.9.1",
     "tslint-microsoft-contrib": "^5.0.3",
-    "typescript": "^2.7.2",
-    "uglify-js": "^3.3.15",
+    "typescript": "^2.8.1",
+    "uglify-js": "^3.3.16",
     "watchify": "^3.11.0"
   }
 }
