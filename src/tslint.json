@@ -1,5 +1,5 @@
 {
-  "extends": ["tslint-microsoft-contrib"],
+  "extends": ["tslint:recommended"],
   "defaultSeverity": "warn",
   "rules": {
     "align": [false],
@@ -40,6 +40,8 @@
     "prefer-template": false,
     "prefer-type-cast": false,
     "quotemark": false,
+    "space-before-function-paren": false,
+    "trailing-comma": false,
     "typedef": [false],
     "use-named-parameter": false
   }
