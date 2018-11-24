@@ -1,6 +1,6 @@
 import m from 'mithril';
 
-export default {
+const Nav: m.Component = {
   view (vnode) {
     return m('div',
       m('a', {href: '/', oncreate: m.route.link}, "Home"),
@@ -8,4 +8,6 @@ export default {
       m('a', {href: '/about', oncreate: m.route.link}, "About")
     );
   }
-} as m.Component;
+};
+
+export default Nav;

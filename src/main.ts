@@ -1,11 +1,11 @@
 // App entry point
 
 import m from 'mithril';
-import home from './components/home';
-import about from './components/about';
+import Home from './components/Home';
+import About from './components/About';
 
 // Set up routing by connecting components to routes
 m.route(document.body, '/', {
-  '/': home,
-  '/about': about
+  '/': Home,
+  '/about': About
 });

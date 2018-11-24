@@ -6,8 +6,5 @@
     "lib": ["dom", "es2015"],
     "strict": true
   },
-  "files": ["./main.ts"],
-  "atom": {
-    "rewriteTsconfig": false
-  }
+  "files": ["./main.ts"]
 }

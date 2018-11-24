@@ -1,12 +1,14 @@
 import m from 'mithril';
-import nav from './nav';
+import Nav from './Nav';
 
-export default {
+const Home: m.Component = {
   view (vnode) {
     return m('.page', [
-      m(nav),
+      m(Nav),
       m('h1', "Home"),
       m('p', "This is the home page.")
     ]);
   }
-} as m.Component;
+};
+
+export default Home;
