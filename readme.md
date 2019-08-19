@@ -1,6 +1,6 @@
 # Mithril / Typescript Example Project
 
-This is a very barebones example project using [Mithril 1.1](https://mithril.js.org/archive/v1.1.6/) and TypeScript.
+This is a very barebones example project using [Mithril 2.0](https://mithril.js.org/) and TypeScript.
 
 This project uses [browserify](https://github.com/browserify/browserify) and [tsify](https://github.com/TypeStrong/tsify) to compile the app source files and 3rd party npm modules into a single app bundle. It uses [budo](https://github.com/mattdesl/budo) to serve and live-reload the `public` directory on a local server.
 
